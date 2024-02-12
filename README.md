@@ -10,10 +10,10 @@ I am a **research scientist** by background, with a **PhD in neuroscience**. I s
 - I am an **Independent Scientific Advisor** for [Innovate UK BridgeAI](https://iuk.ktn-uk.org/programme/bridgeai/)
 
 ### Recent Interests, Activities & Outputs 💡 🗣️
-- Synthetic Data in Health Research
+- **Synthetic Data in Health Research**
   - GitHub repo on [Synthetic Data](https://github.com/aim-rsf/Synthetic-Data)
   - Recent talk: [Synthetic data for a health research programme](https://zenodo.org/records/10561361)
-- See my pinned repositories on GitHub - 
+- See my pinned repositories on GitHub to see contributions to **open source software projects** 
 
 ---
 
