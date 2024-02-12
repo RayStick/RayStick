@@ -6,7 +6,7 @@
   <summary>Click for more details - for instance, What type of neuroscience?</summary> 
   <br />
   
-  I specialised in neuroimaging, specifically **Magnetic Resonance Imaging (MRI)**. I have investigated the neural, vascular and metabolic function of the human brain and how these functions changed in **Multiple Sclerosis**.  I have developed and refined **methods of measuring brain signals**, examining different interpretations of what these signals tell us about brain health.
+  I specialised in neuroimaging, specifically **Magnetic Resonance Imaging (MRI)**. I have investigated the neural, vascular and metabolic function of the human brain and how these functions change in **Multiple Sclerosis**.  I have developed and refined **methods of measuring brain signals**, examining different interpretations of what these signals tell us about brain health.
 </details>
 
 ### 🧠 **Data Wrangler** at [The Alan Turing Institute](https://www.turing.ac.uk/people/researchers/rachael-stickland)
