@@ -9,7 +9,7 @@
 
 ### Background 🧠 🧑‍🔬
 
-I am a **research scientist** by background, with a **PhD in neuroscience**. I specalised in neuroimaging, specifically Magnetic Resonance Imaging (MRI). During my PhD and Postdoctoral years, I investigated the neural, vascular and metabolic function of the human brain and how these functions might be changed in Multiple Sclerosis.  
+I am a **research scientist** by background, with a **PhD in neuroscience**. I specialised in neuroimaging, specifically Magnetic Resonance Imaging (MRI). During my PhD and Postdoctoral years, I investigated the neural, vascular and metabolic function of the human brain and how these functions might be changed in Multiple Sclerosis.  
 
 ### Current Positions 📉 💻
 
