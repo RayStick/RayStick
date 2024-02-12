@@ -13,7 +13,7 @@ I am a **research scientist** by background, with a **PhD in neuroscience**. I s
 - **Synthetic Data in Health Research**
   - GitHub repo on [Synthetic Data](https://github.com/aim-rsf/Synthetic-Data)
   - Recent talk: [Synthetic data for a health research programme](https://zenodo.org/records/10561361)
-- See my pinned repositories on GitHub to see contributions to **open source software projects** 
+- See my pinned repositories below for contributions to **open source software projects** 
 
 ---
 
