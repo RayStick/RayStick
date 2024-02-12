@@ -24,7 +24,7 @@ Data Wranglers can be viewed as a specialised type of data scientist, primarily 
 ### 🧠  Recent Activities & Outputs 
 - **Teaching on version control with git** - [YouTube Recording](https://www.youtube.com/watch?v=z9-qAGq78qE) (jump in at 4:50 to skip the preamble)
 - **Synthetic Data in Health Research** - see [GH repo](https://github.com/aim-rsf/Synthetic-Data) & [recent talk](https://zenodo.org/records/10561361)
-- **Open source software** - see my pinned repositories below for example activities & communities I am involved in 
+- **Open source software** - see pinned repositories below for example activities
 
 > Click me:  
 > 
