@@ -3,7 +3,7 @@
 ### 🧠 **Research Scientist** by background, with a **PhD in neuroscience**
 
 <details>
-  <summary>Click for more details - for instance, What is my speciality?</summary> 
+  <summary>Click for more details - for instance, What type of neuroscience?</summary> 
   <br />
   
   I specialised in neuroimaging, specifically **Magnetic Resonance Imaging (MRI)**. I have investigated the neural, vascular and metabolic function of the human brain and how these functions changed in **Multiple Sclerosis**.  I have developed and refined **methods of measuring brain signals**, examining different interpretations of what these signals tell us about brain health.
