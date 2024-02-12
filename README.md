@@ -15,7 +15,7 @@
   <summary>Click for more details - for instance, What is a Data Wrangler?</summary> 
   <br />
 
-Data Wranglers can be viewed as a specialised type of data scientist, primarily working in the space between data generators and data analysts. Read more [here](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/data-wrangler.html). The research projects I work on use large population health databases (often electronic health records derived from primacy care data). This data rarely comes **AI-ready** or **research-ready**. I create re-usable, accessible and efficient analytical workflows to help prepare data for specific use cases. 
+Data Wranglers can be viewed as a specialised type of data scientist, primarily working in the space between data generators and data analysts. Read more [here](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/data-wrangler.html). The research projects I work on use large population health databases (often electronic health records derived from primary care data). This data rarely comes **AI-ready** or **research-ready**. I create re-usable, accessible and efficient analytical workflows to help prepare data for specific use cases. 
 
 </details>
 
