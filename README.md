@@ -16,12 +16,12 @@ I am a **research scientist** by background, with a **PhD in neuroscience**. I s
 **I am a Data Wrangler** at the [The Alan Turing Institute](https://www.turing.ac.uk/people/researchers/rachael-stickland) and an **Independent Scientific Advisor** for [Innovate UK BridgeAI](https://iuk.ktn-uk.org/programme/bridgeai/)
 
 - [What is a Data Wrangler?](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/data-wrangler.html)
-- Member of the [Data for Research (Data Wrangling) programme](https://www.turing.ac.uk/research/data-for-research)
-- Work for the [Artificial Intelligence for Multiple Long-Term Conditions programme](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility)
+- I am a member of the [Data for Research (Data Wrangling) programme](https://www.turing.ac.uk/research/data-for-research)
+- I work for the [Artificial Intelligence for Multiple Long-Term Conditions programme](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility)
 
 ### Recent Interests, Activities & Outputs 💡 🗣️
 
-Working with large population health databases, creating re-usable efficient analytical workflows and research-ready datasets. 
+Working with large population health databases (often electronic health records): creating re-usable efficient analytical workflows and research-ready datasets. 
 
 - **Synthetic Data in Health Research**
   - GitHub repo on [Synthetic Data](https://github.com/aim-rsf/Synthetic-Data)
