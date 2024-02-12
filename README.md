@@ -1,6 +1,6 @@
 ## Dr Rachael Stickland (she/her)
 
-### 🧠🧑‍🔬 **Research Scientist** by background, with a **PhD in neuroscience**
+### 🧠 **Research Scientist** by background, with a **PhD in neuroscience**
 
 <details>
   <summary>Click for more details - for instance, What is my speciality?</summary> 
@@ -9,7 +9,7 @@
   I specialised in neuroimaging, specifically **Magnetic Resonance Imaging (MRI)**. I have investigated the neural, vascular and metabolic function of the human brain and how these functions might be changed in **Multiple Sclerosis**.  I have developed and refined **methods of measuring brain signals**, examining different interpretations of what these signals tell us about brain health.
 </details>
 
-### 📉💻 **Data Wrangler** at [The Alan Turing Institute](https://www.turing.ac.uk/people/researchers/rachael-stickland) & an **Independent Scientific Advisor** for [Innovate UK BridgeAI](https://iuk.ktn-uk.org/programme/bridgeai/)
+### 🧠 **Data Wrangler** at [The Alan Turing Institute](https://www.turing.ac.uk/people/researchers/rachael-stickland) & an **Independent Scientific Advisor** for [Innovate UK BridgeAI](https://iuk.ktn-uk.org/programme/bridgeai/)
 
 <details>
   <summary>Click for more details - for instance, What is a Data Wrangler?</summary> 
@@ -19,7 +19,7 @@ Data Wranglers can be viewed as a specialised type of data scientist, primarily 
 
 </details>
   
-### 💡🗣️ Recent Activities & Outputs 
+### 🧠  Recent Activities & Outputs 
 - **Teaching on version control with git** - [YouTube Recording](https://www.youtube.com/watch?v=z9-qAGq78qE) (jump in at 4:50 to skip the preamble)
 - **Synthetic Data in Health Research** - see GH repo on [Synthetic Data](https://github.com/aim-rsf/Synthetic-Data) & recent talk on [Synthetic data for a health research programme](https://zenodo.org/records/10561361)
 - **Open source software** - see my pinned repositories below for example activities & communities I am involved in 
