@@ -1,5 +1,13 @@
 ## Dr Rachael Stickland (she/her)
 
+> Click me:  
+> 
+> [<img height="30" src="https://github.com/RayStick/RayStick/assets/50215726/78a68437-0b09-4a96-b4ab-d78dc9676869" alt="linkedin logo">](https://www.linkedin.com/in/rstickland-phd)
+> [<img height="30" src="https://github.com/RayStick/RayStick/assets/50215726/706abccc-70d5-483b-b906-1750072c61d9" alt="orcid logo">](https://orcid.org/0000-0003-3398-4272)
+> [<img height="30" src="https://github.com/RayStick/RayStick/assets/50215726/bce19902-dbee-40d9-b7fe-57cfeee3d305" alt="researchgate logo">](https://www.researchgate.net/profile/Rachael-Stickland)
+> [<img height="30" src="https://github.com/RayStick/RayStick/assets/50215726/68d77b87-e430-4ee9-bc65-f4a486a43668" alt="googlescholar logo">](https://scholar.google.com/citations?user=r7BTR4cAAAAJ&hl=en) 
+
+
 ### 🧠 **Research Scientist** by background, with a **PhD in neuroscience**
 
 <details>
@@ -26,12 +34,6 @@ Data Wranglers can be viewed as a specialised type of data scientist, primarily 
 - **Synthetic Data in Health Research** - [recent talk](https://zenodo.org/records/10561361)
 - **Open source software** - see pinned repositories below for example activities
 
-> Click me:  
-> 
-> [<img height="30" src="https://github.com/RayStick/RayStick/assets/50215726/78a68437-0b09-4a96-b4ab-d78dc9676869" alt="linkedin logo">](https://www.linkedin.com/in/rstickland-phd)
-> [<img height="30" src="https://github.com/RayStick/RayStick/assets/50215726/706abccc-70d5-483b-b906-1750072c61d9" alt="orcid logo">](https://orcid.org/0000-0003-3398-4272)
-> [<img height="30" src="https://github.com/RayStick/RayStick/assets/50215726/bce19902-dbee-40d9-b7fe-57cfeee3d305" alt="researchgate logo">](https://www.researchgate.net/profile/Rachael-Stickland)
-> [<img height="30" src="https://github.com/RayStick/RayStick/assets/50215726/68d77b87-e430-4ee9-bc65-f4a486a43668" alt="googlescholar logo">](https://scholar.google.com/citations?user=r7BTR4cAAAAJ&hl=en) 
 
 
 
