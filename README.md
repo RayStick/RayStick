@@ -31,13 +31,15 @@ The role of the Scientific Advisory Group is to provide advice to the Medicines 
 
 </details>
 
-### 🧠 2025 [Software Sustainability Institute](https://www.software.ac.uk/fellowship-programme/rachael-stickland) Fellow
+### 🧠 2025 [Software Sustainability Institute (SSI)](https://www.software.ac.uk/fellowship-programme/rachael-stickland) Fellow
 
 <details>
-  <summary>Click for more details - </summary> 
+  <summary>Click for more details - What is the SSI? </summary> 
   <br />
 
-Coming soon
+The SSI works to *"help people build better software and more sustainable research software to enable world-class research."* https://www.software.ac.uk/about 
+
+In 2025 I was accepted onto the SSI Fellowship programme (https://www.software.ac.uk/programmes/fellowship-programme). The main goals of the Programme are to improve and promote good computational practice across all research disciplines and support those who are doing this important work. My fellowhip plans will promote and enhance the activities of the [Physiopy community](https://github.com/physiopy).
 
 </details>
 
