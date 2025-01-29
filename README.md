@@ -11,7 +11,7 @@ I am a **Research Scientist** by background, with a PhD in Neuroscience. I speci
 ### 🧠 (2022 - Present) Data Wrangler at [The Alan Turing Institute](https://www.turing.ac.uk/people/researchers/rachael-stickland) in the Research Engineering Group
 
 <details>
-  <summary>Click for more details - for instance, What is a Data Wrangler?</summary> 
+  <summary>Click for more details - What is a Data Wrangler?</summary> 
   <br />
 
 Data Wranglers can be viewed as a specialised type of data scientist, primarily working in the space between data generators and data analysts. Read a description from The Turing Way book: https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/data-wrangler.html. 
@@ -20,13 +20,15 @@ The research projects I work on use large population health databases (often ele
 
 </details>
 
-### 🧠 (2024 - Present) Member of CPRD's Scientific Advisory Group 
+### 🧠 (2024 - Present) Member of the [CPRD](https://www.cprd.com/) Scientific Advisory Group 
 
 <details>
-  <summary>Click for more details - </summary> 
+  <summary>Click for more details - What is CPRD? </summary> 
   <br />
 
-Coming soon
+*"Clinical Practice Research Datalink (CPRD) is a real-world research service supporting retrospective and prospective public health and clinical studies."* See: https://www.cprd.com/
+
+The role of the Scientific Advisory Group is to provide advice to the Medicines and Healthcare products Regulatory Agency (MHRA) on the overall scientific direction and strategic priorities for its Clinical Practice Research Datalink (CPRD) service. 
 
 </details>
 
