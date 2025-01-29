@@ -6,16 +6,9 @@ Click on a logo to be taken to my profile:
 | -------- | ------- |------- |------- | -------- |
 [<img height="50" alt="Screenshot 2025-01-29 at 12 21 36" src="https://github.com/user-attachments/assets/d0652837-9c6a-4238-a803-2971193e0be8" alt="The Alan Turing Institute logo">](https://www.turing.ac.uk/people/researchers/rachael-stickland) | [<img height="30" src="https://github.com/RayStick/RayStick/assets/50215726/78a68437-0b09-4a96-b4ab-d78dc9676869" alt="linkedin logo">](https://www.linkedin.com/in/rstickland-phd) | [<img height="30" src="https://github.com/RayStick/RayStick/assets/50215726/706abccc-70d5-483b-b906-1750072c61d9" alt="orcid logo">](https://orcid.org/0000-0003-3398-4272) | [<img height="30" src="https://github.com/RayStick/RayStick/assets/50215726/bce19902-dbee-40d9-b7fe-57cfeee3d305" alt="researchgate logo">](https://www.researchgate.net/profile/Rachael-Stickland) | [<img height="30" src="https://github.com/RayStick/RayStick/assets/50215726/68d77b87-e430-4ee9-bc65-f4a486a43668" alt="googlescholar logo">](https://scholar.google.com/citations?user=r7BTR4cAAAAJ&hl=en)  |
 
-### 🧠 **Research Scientist** by background, with a **PhD in neuroscience**
+I am a **Research Scientist** by background, with a PhD in Neuroscience. I specialised in neuroimaging, specifically Magnetic Resonance Imaging (MRI). I have investigated the neural, vascular and metabolic function of the human brain and how these functions change in Multiple Sclerosis.  I have developed and refined methods of measuring brain signals, examining different interpretations of what these signals tell us about brain health.
 
-<details>
-  <summary>Click for more details - for instance, What type of neuroscience?</summary> 
-  <br />
-  
-  I specialised in neuroimaging, specifically **Magnetic Resonance Imaging (MRI)**. I have investigated the neural, vascular and metabolic function of the human brain and how these functions change in **Multiple Sclerosis**.  I have developed and refined **methods of measuring brain signals**, examining different interpretations of what these signals tell us about brain health.
-</details>
-
-### 🧠 **Data Wrangler** at [The Alan Turing Institute](https://www.turing.ac.uk/people/researchers/rachael-stickland)
+### 🧠 **Current position: Data Wrangler** at [The Alan Turing Institute](https://www.turing.ac.uk/people/researchers/rachael-stickland) in the Research Engineering Group
 
 <details>
   <summary>Click for more details - for instance, What is a Data Wrangler?</summary> 
@@ -25,13 +18,25 @@ Data Wranglers can be viewed as a specialised type of data scientist, primarily 
 
 </details>
 
-### 🧠  **Independent Scientific Advisor** for [Innovate UK BridgeAI](https://iuk.ktn-uk.org/programme/bridgeai/)
+### 🧠 **2025 [Software Sustainability Institute](https://www.software.ac.uk/fellowship-programme/rachael-stickland) Fellow**
+
+<details>
+  <summary>Click for more details - </summary> 
+  <br />
+
+Coming soon
+
+</details>
+
+### 🧠  **Independent Scientific Advisor** Alumni (2024 - 2025) for [Innovate UK BridgeAI](https://iuk.ktn-uk.org/programme/bridgeai/)
+
+<details>
+  <summary>Click for more details - </summary> 
+  <br />
+
+Coming soon
+
+</details>
   
-### 🧠  Recent Activities & Outputs 
-- **Teaching on version control with git** - [YouTube Recording](https://www.youtube.com/watch?v=z9-qAGq78qE) (jump in at 4:50 to skip the preamble)
-- **Synthetic Data in Health Research** - [PDF of recent talk](https://zenodo.org/records/10561361)
-- **Open source software** - see pinned repositories below for example activities
-
-
 
 
