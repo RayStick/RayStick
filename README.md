@@ -8,7 +8,7 @@ Click on a logo to be taken to my profile:
 
 I am a **Research Scientist** by background, with a PhD in Neuroscience. I specialised in neuroimaging, specifically Magnetic Resonance Imaging (MRI). I have investigated the neural, vascular and metabolic function of the human brain and how these functions change in Multiple Sclerosis.  I have developed and refined methods of measuring brain signals, examining different interpretations of what these signals tell us about brain health.
 
-### 🧠 **Current position: Data Wrangler** at [The Alan Turing Institute](https://www.turing.ac.uk/people/researchers/rachael-stickland) in the Research Engineering Group
+### 🧠 (2022 - Present) Data Wrangler at [The Alan Turing Institute](https://www.turing.ac.uk/people/researchers/rachael-stickland) in the Research Engineering Group
 
 <details>
   <summary>Click for more details - for instance, What is a Data Wrangler?</summary> 
@@ -18,7 +18,7 @@ Data Wranglers can be viewed as a specialised type of data scientist, primarily 
 
 </details>
 
-### 🧠 **2025 [Software Sustainability Institute](https://www.software.ac.uk/fellowship-programme/rachael-stickland) Fellow**
+### 🧠 (2024 - Present) Member of CPRD's Scientific Advisory Group 
 
 <details>
   <summary>Click for more details - </summary> 
@@ -28,7 +28,19 @@ Coming soon
 
 </details>
 
-### 🧠  **Independent Scientific Advisor** Alumni (2024 - 2025) for [Innovate UK BridgeAI](https://iuk.ktn-uk.org/programme/bridgeai/)
+### 🧠 2025 [Software Sustainability Institute](https://www.software.ac.uk/fellowship-programme/rachael-stickland) Fellow
+
+<details>
+  <summary>Click for more details - </summary> 
+  <br />
+
+Coming soon
+
+</details>
+
+---
+
+### 🧠  (2024 - 2025) Independent Scientific Advisor Alumni for [Innovate UK BridgeAI](https://iuk.ktn-uk.org/programme/bridgeai/)
 
 <details>
   <summary>Click for more details - </summary> 
