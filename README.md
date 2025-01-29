@@ -8,8 +8,7 @@ Click on a logo to be taken to my profile:
 
 I am a **Research Scientist** by background, with a PhD in Neuroscience. I specialised in neuroimaging, specifically Magnetic Resonance Imaging (MRI). I have investigated the neural, vascular and metabolic function of the human brain and how these functions change in Multiple Sclerosis.  I have developed and refined methods of measuring brain signals, examining different interpretations of what these signals tell us about brain health.
 
-### 🧠 (2022 - Present) Data Wrangler at [The Alan Turing Institute](https://www.turing.ac.uk/people/researchers/rachael-stickland) in the Research Engineering Group
-
+### 🧠 (2022 - Present) Data Wrangler at [The Alan Turing Institute](https://www.turing.ac.uk/people/researchers/rachael-stickland) 
 <details>
   <summary>Click for more details - What is a Data Wrangler?</summary> 
   <br />
