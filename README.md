@@ -47,13 +47,4 @@ In 2025 I was accepted onto the SSI Fellowship programme (https://www.software.a
 
 ### 🧠  (2024 - 2025) Independent Scientific Advisor Alumni for [Innovate UK BridgeAI](https://iuk.ktn-uk.org/programme/bridgeai/)
 
-<details>
-  <summary>Click for more details - </summary> 
-  <br />
-
-Coming soon
-
-</details>
-  
-
 
