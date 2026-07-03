@@ -12,7 +12,7 @@ Last Updated: 3rd July 2026
 ## ⏮️ Previously
 
 - I worked at [The Alan Turing Insitute](https://www.turing.ac.uk) as a [Data Wrangler](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/data-wrangler.html)
-- PhD and postdoctoral research, specialising in neuroimaging methods and neurovascular health.
+- PhD and postdoctoral research, specialising in neuroimaging methods and neurovascular health
 
 ---
 
